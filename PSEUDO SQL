@@ -1,0 +1,7 @@
+skill test 2.
+a)select department_family,sum(amount) from report_table group by department_family
+b)select department_family,sum(amount) 
+skill test 3.
+we need to make loop that matches every expense type with expense area
+select sum(amount)from table where expenseArea = (one from the loop),
+expense type = (one from the loop)
